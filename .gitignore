@@ -1,0 +1,6 @@
+teste.js
+teste.py
+venv/
+__pycache__/
+*.xml
+.env
