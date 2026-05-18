@@ -1,3 +1,5 @@
+![Descrição do GIF](<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/7119ddb2-a8e6-49f7-9fba-9e2bc80e79eb" />)
+
 # 🧾 Automação de Emissão de Nota Fiscal com Selenium
 
 ## 📌 Sobre o projeto
