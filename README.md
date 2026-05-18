@@ -1,6 +1,3 @@
-
-![Demonstração da automação](https://github.com/user-attachments/assets/1dc6640d-01a2-4de4-98d0-dea51285e1ce)
-
 # 🧾 Automação de Emissão de Nota Fiscal com Selenium
 
 ## 📌 Sobre o projeto
